@@ -38,3 +38,9 @@ Precision VR is an immersive and interactive VR gun range built in Unity. Design
 - **William M.**: Casual Target Practice Environment & Speed Test
 - **Tyler C.**: Project Manager, UI Design, Hub World, Tactical Destruction
 - **Shane L.**: Accuracy Test, Report
+
+## Documentation
+
+- [Final Project Report (PDF)](/CAP5118_Final_Report.pdf)
+- [Ignite-Style Presentation (PPTX)](/CAP5118_VR_IGNITE.pptx)
+
