@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BNG Framework/Scenes/XR Demo.unity
+    guid: a1360534006d3f845bc79b46b93cfec5
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/Scene Transitioning.unity
+    guid: 9d7c9629abf9c99449e358b0938b47d0
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/Physics Hands.unity
+    guid: 34a4579517c578e4080d0a6ef2c96294
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/Rigidbody Player.unity
+    guid: 57fc97c5771a777449aa8bd02514df22
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/Vehicle Example.unity
+    guid: d96233ee44d985d4fb8dc23a907c06eb
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/Quest Demo.unity
+    guid: eac0312c32df12949a47d07747a9d1cd
+  - enabled: 1
+    path: Assets/VR_GUN_RANGE_MAIN/Scenes/Hub World.unity
+    guid: 69b8a48eb0c6a53448b69c9eed7b1389
+  - enabled: 1
+    path: Assets/VR_GUN_RANGE_MAIN/Scenes/Gun Range.unity
+    guid: 58b0f296ac377e94aa32f8b07c928c31
+  - enabled: 1
+    path: Assets/VR_GUN_RANGE_MAIN/Scenes/Tactical Destruction.unity
+    guid: 0e9b85236e3f93041808767a7dd5cdf6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2ad8f415d595de044ad530190c1b2f9d,
+      type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: fe9659bb224bb054bb1dbca065d1d318, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7c0d65f8139523c47a3ac0b1587ccdf6,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 319c0f7472ed9eb41b8bb99b5020dacb,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bc87842975b39e54c9a8257bb65aef55,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0244ac91c8a15a448995a8101e2552fb,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ae0a4a226e8d9e4aba56d1e2eb3977b,
+      type: 2}
